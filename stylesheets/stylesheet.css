@@ -242,4 +242,13 @@ a {
 
 @media screen and (max-width: 42em) {
   .site-footer {
-    font-size: 0.9rem; } }
+    font-size: 0.9rem; }
+  .alttext {
+    font-size: 0.9rem; }
+  } }
+
+@media screen and (min-width: 43em) {
+  .alttext {
+    margin-top:200px;
+  }
+}
